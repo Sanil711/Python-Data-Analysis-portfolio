@@ -5,3 +5,5 @@ This is a data-driven analysis exploring how global AI workloads impact electric
 - Built dataframes and converted them to csv files to import them to Power BI for creating visuals
 - Simulated workload shifting between regions, finding up to 6 MtCO₂ annual savings possible under realistic assumptions
 
+---
+![alttext](visualizations/stacked_area_chart.png)
