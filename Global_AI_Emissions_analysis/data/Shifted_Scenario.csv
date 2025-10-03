@@ -1,0 +1,13 @@
+Scenario,Region,TWh,Intensity,Emissions_MtCO2
+Current,North America,158.0,363.316,57.40392799999999
+Current,Central and South America,1.5,186.405643,0.2796084645
+Current,Europe,66.0,300.277,19.818282
+Current,Africa,1.3,541.355,0.7037615
+Current,Middle East,1.3,641.222,0.8335886
+Current,Asia Pacific,128.0,542.5765,69.449792
+Shifted,North America,158.0,363.316,57.40392799999999
+Shifted,Central and South America,1.5,186.405643,0.2796084645
+Shifted,Europe,91.6,300.277,27.5053732
+Shifted,Africa,1.3,541.355,0.7037615
+Shifted,Middle East,1.3,641.222,0.8335886
+Shifted,Asia Pacific,102.4,542.5765,55.5598336
