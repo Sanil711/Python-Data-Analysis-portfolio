@@ -6,4 +6,17 @@ This is a data-driven analysis exploring how global AI workloads impact electric
 - Simulated workload shifting between regions, finding up to 6 MtCO₂ annual savings possible under realistic assumptions
 
 ---
+### Stacked Area Chart of Projected Global Emissions
 ![alttext](visualizations/stacked_area_chart.png)
+
+---
+### Filled Map showing Carbon Intensity by Region
+![alttext](visualizations/stacked_area_chart.png)
+
+---
+### Electricity Consumption with Carbon Emissions line 
+![alttext](visualizations/elec_emissions_liftoff.png)
+
+---
+### Waterfall Chart for Power Shift Scenario
+![alttext](visualizations/waterfall_chart.png)
