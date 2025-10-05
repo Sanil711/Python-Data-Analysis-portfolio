@@ -21,3 +21,6 @@ This is a data-driven analysis exploring how global AI workloads impact electric
 ### Waterfall Chart for Power Shift Scenario
 ![alttext](visualizations/waterfall_chart.png)
 
+---
+### Sustainable IT Strategies
+![alttext](Global_AI_Emissions/visualizations/strategies.png)
