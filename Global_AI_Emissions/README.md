@@ -23,4 +23,5 @@ This is a data-driven analysis exploring how global AI workloads impact electric
 
 ---
 ### Sustainable IT Strategies
-![alttext](Global_AI_Emissions/visualizations/strategies.png)
+![alttext](visualizations/strategies.png)
+
