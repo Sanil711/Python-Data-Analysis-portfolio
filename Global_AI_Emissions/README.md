@@ -7,21 +7,22 @@ This is a data-driven analysis exploring how global AI workloads impact electric
 
 ---
 ### Stacked Area Chart of Projected Global Emissions
-![alttext](visualizations/stacked_area_chart.png)
+![alttext](images/stacked_area_chart.png)
 
 ---
 ### Filled Map showing Carbon Intensity by Region
-![alttext](visualizations/filled_map.png)
+![alttext](images/filled_map.png)
 
 ---
 ### Electricity Consumption with Carbon Emissions line 
-![alttext](visualizations/elec_emissions_liftoff.png)
+![alttext](images/elec_emissions_liftoff.png)
 
 ---
 ### Waterfall Chart for Power Shift Scenario
-![alttext](visualizations/waterfall_chart.png)
+![alttext](images/waterfall_chart.png)
 
 ---
 ### Sustainable IT Strategies
-![alttext](visualizations/strategies.png)
+![alttext](images/strategies.png)
+
 
