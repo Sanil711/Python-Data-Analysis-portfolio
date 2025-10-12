@@ -5,13 +5,18 @@ Displayed below is a little glimpse of my proficiency in Python frameworks ðŸ‘‡ð
 
 ---
 ![alttext](Cars_dataset_EDA/images/heatmap.png)
+
 ---
 ![alttext](Cars_dataset_EDA/images/barplot.png)
+
 ---
 ![alttext](Cars_dataset_EDA/images/boxplot_2.png)
+
 ---
 ![alttext](Cars_dataset_EDA/images/scatterplot.png)
+
 ---
 ![alttext](Global_AI_Emissions/images/stacked_area_chart.png)
+
 ---
 ![alttext](Global_AI_Emissions/images/filled_map.png)
