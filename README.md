@@ -20,3 +20,6 @@ Displayed below is a little glimpse of my proficiency in Python frameworks ðŸ‘‡ð
 
 ---
 ![alttext](Global_AI_Emissions/images/filled_map.png)
+
+---
+![alttext](Telecom_dataset/images/numerical_feature_dist.png)
